@@ -8,3 +8,6 @@ Vader
 Palpatine
 Kulo Ron
 Maul
+
+Cheie 
+Han solo
