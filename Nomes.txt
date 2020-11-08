@@ -4,3 +4,7 @@ Leia
 yoda
 Anakin
 Obi
+Vader
+Palpatine
+Kulo Ron
+Maul
